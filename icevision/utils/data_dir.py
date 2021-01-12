@@ -6,7 +6,7 @@ root_dir = Path(".") #.home() / ".icevision"
 #root_dir.mkdir(exist_ok=True)#, parents=True)
 
 data_dir = root_dir / "data"
-data_dir.mkdir(exist_ok=True)#, parents=True)
+#data_dir.mkdir(exist_ok=True)#, parents=True)
 
 
 def get_data_dir():
